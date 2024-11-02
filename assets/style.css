@@ -59,11 +59,11 @@ body {
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .cartao.active .cartao__conteudo {
-    transform: rotateY(180deg);
+    transform: rotateY(660deg);
 }
 
 .cartao__conteudo__pergunta,
